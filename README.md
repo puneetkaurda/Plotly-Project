@@ -3,7 +3,8 @@
 To deploy a dashboard via my GitHub Page of my Biodiversity data visualization: https://puneetkaurda.github.io/Plotly-Project/
 
 In this project, I used Javascript's Plotly library to create three basic plots: 
- -horizontal bar chart
+
+- horizontal bar chart
 - gauge chart
 - bubble chart
 
